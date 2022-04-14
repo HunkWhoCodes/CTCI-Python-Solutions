@@ -4,7 +4,7 @@
 | #  	| Chapter                                                                                         	| Total Qs 	| Solved 	| Finished On 	| Revision Count 	|
 |----	|-------------------------------------------------------------------------------------------------	|----------	|--------	|-------------	|----------------	|
 | 1  	| [Arrays & Strings](https://github.com/HunkWhoCodes/CTCI-Solutions/tree/main/1.ArraysAndStrings) 	| 9        	| 1      	|             	|                	|
-| 2  	| [LinkedLists](https://github.com/HunkWhoCodes/CTCI-Solutions/tree/main/1.ArraysAndStrings)      	| 8        	|        	|             	|                	|
+| 2  	| [LinkedLists](https://github.com/HunkWhoCodes/CTCI-Python-Solutions/tree/main/2.LinkedLists      	| 8        	|        	|             	|                	|
 | 3  	| Stacks & Queues                                                                                 	|          	|        	|             	|                	|
 | 4  	| Trees & Graphs                                                                                  	|          	|        	|             	|                	|
 | 5  	| Bit Manipulation                                                                                	|          	|        	|             	|                	|
