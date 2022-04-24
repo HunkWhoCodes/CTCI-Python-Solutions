@@ -1,4 +1,4 @@
-# CTCI-Solutions
+# My CTCI Solutions and Progress Tracker
 
 
 | #  	| Chapter                                                                                         	| Total Qs 	| Solved 	| Finished On 	| Revision Count 	|
